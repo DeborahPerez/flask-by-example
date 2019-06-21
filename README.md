@@ -10,7 +10,8 @@ This is the repo for the Real Python blog series, Flask by Example -
 1. [Part Two](https://realpython.com/blog/python/flask-by-example-part-2-postgres-sqlalchemy-and-alembic): Set up a PostgreSQL database along with SQLAlchemy and Alembic to handle migrations.
 1. [Part Three](https://realpython.com/blog/python/flask-by-example-part-3-text-processing-with-requests-beautifulsoup-nltk/): Add in the back-end logic to scrape and then process the word counts from a webpage using the requests, BeautifulSoup, and Natural Language Toolkit (NLTK) libraries.
 
-Check out http://realpython.com
+Check out the staging application here: https://quiet-shelf-13438.herokuapp.com/
+Check out the production application here: https://deb-wordcount-pro.herokuapp.com/
 
 ## Quick Start
 
